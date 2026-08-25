@@ -1,0 +1,18 @@
+Entidade	Atributo	Tipo	Tamanho	Descrição
+Motorista	id_motorista	INT	-	Identificador do motorista
+Motorista	nome	VARCHAR	100	Nome do motorista
+Motorista	cpf	VARCHAR	14	CPF do motorista
+Motorista	telefone	VARCHAR	15	Telefone do motorista
+Motorista	cnh	VARCHAR	20	Número da CNH
+Veículo	id_veiculo	INT	-	Identificador do veículo
+Veículo	placa	VARCHAR	8	Placa do veículo
+Veículo	modelo	VARCHAR	50	Modelo do veículo
+Veículo	capacidade	INT	-	Capacidade de carga
+Veículo	ano	INT	4	Ano do veículo
+Rota	id_rota	INT	-	Identificador da rota
+Rota	origem	VARCHAR	100	Local de origem
+Rota	destino	VARCHAR	100	Local de destino
+Rota	distancia	DECIMAL	10,2	Distância da rota em km
+Rota	data	DATE	-	Data da rota
+Rota	id_motorista	INT	-	Motorista responsável
+Rota	id_veiculo	INT	-	Veículo utilizado
