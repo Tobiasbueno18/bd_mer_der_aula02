@@ -1,9 +1,9 @@
-id_rota	origem	destino	distancia	data	id_motorista	id_veiculo
-1	Campinas	São Paulo	100.50	01/08/2026	1	1
-2	Campinas	Santos	170.20	02/08/2026	2	2
-3	São Paulo	Curitiba	408.70	03/08/2026	3	3
-4	Campinas	Ribeirão Preto	220.40	04/08/2026	4	4
-5	Santos	São Paulo	72.30	05/08/2026	1	2
-6	Curitiba	Campinas	530.60	06/08/2026	2	1
-7	Campinas	Sorocaba	85.10	07/08/2026	3	4
-8	São Paulo	Campinas	99.80	08/08/2026	4	3
+id_rota	origem	|destino	|distancia	|data	|id_motorista	|id_veiculo
+1	|Campinas	|São Paulo	|100.50	|01/08/2026	|1	|1
+2	|Campinas	|Santos	|170.20	|02/08/2026	|2	|2
+3	|São Paulo	|Curitiba	|408.70	|03/08/2026	|3	|3
+4	|Campinas	|Ribeirão Preto	|220.40	|04/08/2026	|4	|4
+5	|Santos	|São Paulo	|72.30	|05/08/2026	|1	|2
+6	|Curitiba	|Campinas	|530.60	|06/08/2026	|2	|1
+7	|Campinas	|Sorocaba	|85.10	|07/08/2026	|3	|4
+8	|São Paulo	|Campinas	|9.80	|08/08/2026	|4	|3
